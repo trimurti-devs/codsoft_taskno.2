@@ -121,8 +121,7 @@ Player (X)
 🧪 Example Gameplay Session
 Here’s what a typical game session might look like:
 
-```
-Copy code
+```Copy code
 $ python tic-tac-toe.py
 ```
 [Game Window Opens]
